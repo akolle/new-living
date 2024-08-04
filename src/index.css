@@ -302,6 +302,7 @@ ul {
   padding: 0.25rem 0.5rem;
   letter-spacing: var(--letterSpacing);
   border-radius: var(--borderRadius);
+  font-size: small;
 }
 
 .item-text {
